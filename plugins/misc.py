@@ -216,7 +216,7 @@ async def help(client, message):
 @Client.on_message(filters.command("about"))
 async def aboutme(client, message):
         buttons= [[
-            InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾𝗌', url='https://t.me/fbm_movies'),
+            InlineKeyboardButton('𝖬𝗈𝗏𝗂𝖾𝗌', url='https://t.me/Cinephile_reviews'),
             InlineKeyboardButton('𝖡𝖺𝖼𝗄', callback_data='help')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
