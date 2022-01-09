@@ -57,7 +57,7 @@
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/SaminSumesh/TeamSakura
+git clone https://github.com/Makri00/TeamSakura
 # Install Packages
 # pip3 install -r requirements.txt
 Edit `info.py` with variables as given below then run bot
